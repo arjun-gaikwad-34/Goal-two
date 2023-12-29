@@ -1,0 +1,19 @@
+Here are the steps you can follow:
+
+Change GitHub Password:
+
+Go to your GitHub account settings.
+Change your password.
+Remove Windows Credential Manager Entries:
+
+Open the Credential Manager on Windows.
+Look for entries related to Git or GitHub and remove them.
+Attempt Git Operation:
+
+Open a terminal or command prompt.
+Navigate to your local repository.
+Perform a Git operation that requires authentication (e.g., git push).
+Enter Credentials:
+
+Git will prompt you for your GitHub username and password.
+Enter your GitHub username and the new password you set.
